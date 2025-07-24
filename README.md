@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Daniel. I'm a UX Designer and a media connoisseur, Entertainment is the misery business after all.
+
 I'm an independent developer designing maiOSX, my beloved file manager for the web.
 - ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
   
