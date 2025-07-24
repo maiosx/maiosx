@@ -18,6 +18,6 @@ I'm Daniel. I'm a UX Designer and a Media Mogul, Entertainment is the Misery Bus
 
 My hobbies include listening to music, watching movies, and helping others organize their lives.
 
-I also used to make custom designs for [Valve Software](https://valvesoftware.com) and [Opera](https://opera.com).
+I also used to make custom designs for [Valve](https://valvesoftware.com) and [Opera](https://opera.com).
 
 I am not officially affiliated with Apple Inc. in any way even though the maiOSX domain is macosx.blog that was just a lucky grab.
