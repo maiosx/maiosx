@@ -25,4 +25,4 @@ I also used to make custom designs for [Valve](https://valvesoftware.com) and [O
 
 I am not officially affiliated with [Apple Inc.](https://apple.com) in any way- the maiOSX domain is [macosx.blog](https://macosx.blog), that was just a lucky grab.
 
-## You can make a donation on my [kofi page](https://ko-fi.com/maiosx) if you like my work.
+## You can make a donation on [my kofi page](https://ko-fi.com/maiosx) if you like my work.
