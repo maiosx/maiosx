@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Daniel. I'm a UX Designer and a media connoisseur, Entertainment is the Misery Business after all.
+I'm Daniel. I'm a UX Designer and a media connoisseur, Entertainment is the misery business after all.
 
 My hobbies include listening to music, watching movies, and helping others organize their lives.
 
 I also used to make custom designs for [Valve](https://valvesoftware.com) and [Opera](https://opera.com).
 
-I am not officially affiliated with [Apple Inc.](https://apple.com) in any way even though the maiOSX domain is [macosx.blog](https://macosx.blog), that was just a lucky grab.
+I am not officially affiliated with [Apple Inc.](https://apple.com) in any way- the maiOSX domain is [macosx.blog](https://macosx.blog), that was just a lucky grab.
