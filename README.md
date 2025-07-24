@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Daniel. I'm a UX Designer and a Media Mogul, Entertainment is the Misery Business after all.
+I'm Daniel. I'm a UX Designer and a media connoisseur, Entertainment is the Misery Business after all.
 
 My hobbies include listening to music, watching movies, and helping others organize their lives.
 
