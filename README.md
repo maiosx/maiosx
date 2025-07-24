@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Daniel. I'm a UX Designer and a media connoisseur, Entertainment is the misery business after all.
-
-My hobbies include listening to music, watching movies, and helping others organize their lives.
+I'm an independent developer designing maiOSX, my beloved file manager for the web.
+- ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
+  
+My hobbies include listening to all kinds of music, watching movies, and helping others organize their lives.
 
 I also used to make custom designs for [Valve](https://valvesoftware.com) and [Opera](https://opera.com).
 
