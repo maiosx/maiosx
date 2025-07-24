@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **maiosx/maiosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Daniel. I'm a UX Designer and a Media Mogul, Entertainment is the Misery Business after all.
+
+My hobbies include listening to music, watching movies, and helping others organize their lives.
+
+I also used to make custom designed software for Valve Inc. and Opera.
+
+I am not officially affiliated with Apple Inc. in any way even though the maiOSX domain is macosx.blog that was just a lucky grab.
