@@ -20,4 +20,4 @@ My hobbies include listening to music, watching movies, and helping others organ
 
 I also used to make custom designs for [Valve](https://valvesoftware.com) and [Opera](https://opera.com).
 
-I am not officially affiliated with Apple Inc. in any way even though the maiOSX domain is macosx.blog that was just a lucky grab.
+I am not officially affiliated with [Apple Inc.](https://apple.com) in any way even though the maiOSX domain is macosx.blog that was just a lucky grab.
