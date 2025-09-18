@@ -26,11 +26,3 @@ I also used to make custom designs for [Valve](https://valvesoftware.com) and [O
 I am not officially affiliated with [Apple Inc.](https://apple.com) in any way- the maiOSX domain is [macosx.blog](https://macosx.blog), but that was just a lucky grab.
 
 ## You can make a donation on [my kofi page](https://ko-fi.com/maiosx) if you like my work.
-
-<widgetbot
-  server="1414067823927627968"
-  channel="1414067824984461497"
-  width="800"
-  height="600"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
