@@ -1,7 +1,7 @@
 ## Hello, World! ❤️
 <p>Welcome to the home of maiOSX, the tumblr "OS" made to run on virtually anything!</p>
 
-maiOSX is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.
+maiOSX Snow Leopard is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.
 
 - ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
 
