@@ -1,5 +1,5 @@
 ## Hello, World! ❤️
-<p>I'm Daniel. I'm a UX Designer and a media connoisseur, Entertainment is the misery business after all.</p>
+<p>I'm a UX Designer and a media connoisseur, Entertainment is the misery business after all.</p>
 
 I'm designing nodoom, a twitter clone with lobby chats on profiles!
 - ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
