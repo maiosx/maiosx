@@ -4,7 +4,7 @@
 maiOSX Snow Leopard is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.
 
 - ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
-- Hint: Password Protection only works for secondary blogs on Tumblr!
+- Hint: Password Protection only works for secondary blogs on Tumblr
 
 Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way- the maiOSX domain is [macosx.blog](https://macosx.blog), but that was just a lucky grab.
 
