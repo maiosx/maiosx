@@ -16,7 +16,7 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way- the
 </a>
 
 - 🖥️ PC Setup
-  - Windows 11
+  - Ultramarine Linux
   - maiOSX
     
 - 📱 Phones
