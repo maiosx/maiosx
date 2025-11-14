@@ -24,5 +24,5 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way- the
   - iPhone 13 Pro
   - Samsung Galaxy S6
 ---
-## [Try nodoom, a retro twist on social networks!](https://nodoom.base44.app/)
+## Try [nodoom](https://nodoom.base44.app/), a retro twist on social networks!
 
