@@ -50,5 +50,4 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
   - iPhone 14 Pro
   - iPhone 13 Pro
   - Samsung Galaxy S6
----
-## You can make a donation on the [kofi page](https://ko-fi.com/maiosx) if you enjoy my projects.
+ ## You can make a donation on the [kofi page](https://ko-fi.com/maiosx) if you enjoy my projects.
