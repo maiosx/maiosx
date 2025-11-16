@@ -3,11 +3,38 @@
 
 maiOSX Snow Leopard is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.
 
+## Featured Applications
+Apple's App Store,
+Spinwheel Tasks,
+Nodoom,
+Perplexity,
+Grok,
+Discord,
+MusicVI,
+Calculatorv0,
+OpenCut,
+BlackjackOSX,
+Apple Invites,
+Youtube,
+Notion,
+X/Twitter,
+Apple Music,
+Canva,
+Pinterest,
+Twitch,
+Figma,
+iCloud,
+Spotify,
+Nvidia Geforce Now,
+Crunchyroll,
+Quartz News,
+Rotten Tomatoes
+
 - ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
 
 Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way- the maiOSX domain is [macosx.blog](https://macosx.blog), but that was just a lucky grab.
 
-## You can make a donation on the [kofi page](https://ko-fi.com/maiosx) if you enjoy maiOSX.
+## Try [nodoom](https://nodoom.app/), a retro twist on social networks! Profile chat lobbies, a timeline, and messaging- all in one!
 
 
 ### 🧑‍💻 Dev Section
@@ -24,6 +51,4 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way- the
   - iPhone 13 Pro
   - Samsung Galaxy S6
 ---
-## Try [nodoom](https://nodoom.app/), a retro twist on social networks! Profile chat lobbies like twitch, a timeline, and messages- all in one!
-
-
+## You can make a donation on the [kofi page](https://ko-fi.com/maiosx) if you enjoy my projects.
