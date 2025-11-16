@@ -24,6 +24,6 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way- the
   - iPhone 13 Pro
   - Samsung Galaxy S6
 ---
-## Try [nodoom](https://nodoom.base44.app/), a retro twist on social networks! Profile chat lobbies like twitch, a timeline, and messages- all in one!
+## Try [nodoom](https://nodoom.app/), a retro twist on social networks! Profile chat lobbies like twitch, a timeline, and messages- all in one!
 
 
