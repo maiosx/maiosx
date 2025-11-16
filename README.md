@@ -32,7 +32,7 @@ Rotten Tomatoes
 
 - ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
 
-Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way- the maiOSX domain is [macosx.blog](https://macosx.blog), but that was just a lucky grab.
+Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
 
 ## Try [nodoom](https://nodoom.app/), a retro twist on social networks! Profile chat lobbies, a timeline, and messaging- all in one!
 
