@@ -3,7 +3,7 @@
 Disclaimer: Safari on iOS/iPadOS limits canvas rendering to 384MB so you may experience crashes on iPhones and iPads.
 
 
-maiOSX Snow Leopard is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.
+<p>maiOSX Snow Leopard is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.</p>
 
 ## Featured Applications
 Apple's App Store,
