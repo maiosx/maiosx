@@ -34,7 +34,7 @@ Rotten Tomatoes
 
 Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
 
-## Try [nodoom](https://nodoom.app/), a retro twist on social networks! Profile chat lobbies, and a timeline with 24h (optional) expiring posts- all in one!
+## Try [nodoom](https://nodoom.app/), a retro twist on social networks! Chatrooms on every profile, user assignable roles, a custom rss reader, and a timeline with 24h (optional) expiring posts- all in one!
 
 
 ### 🧑‍💻 Dev Section
