@@ -5,6 +5,7 @@ Disclaimer: Safari on iOS/iPadOS limits canvas rendering to 384MB so you may exp
 
 ## Featured Applications
 Apple's App Store,
+GameDays,
 Spinwheel Tasks,
 Nodoom,
 Perplexity,
@@ -43,11 +44,11 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
 </a>
 
 - 🖥️ PC Setup
-  - Ultramarine Linux
+  - Windows 11
   - maiOSX
     
 - 📱 Phones
-  - iPhone 14 Pro
+  - iPhone 17e
   - iPhone 13 Pro
   - Samsung Galaxy S6
  ## You can make a donation on the [kofi page](https://ko-fi.com/maiosx) if you enjoy my projects.
