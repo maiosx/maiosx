@@ -35,7 +35,7 @@ Rotten Tomatoes
 
 Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
 
-## Try [GameDays](https://gamedays.lovable.app/), a game progress tracker.
+## Try [GameDays](https://gamedays.lovable.app/), a game progress tracker with cloud saving functionality.
 
 
 ### 🧑‍💻 Dev Section
