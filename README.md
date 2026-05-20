@@ -1,7 +1,7 @@
 ## Hello, World! ❤️
 <p>Welcome to the home of maiOSX, the tumblr "OS" made to run on virtually anything!</p>
 <p>maiOSX Snow Leopard is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.</p>
-Disclaimer: Safari on iOS/iPadOS limits canvas rendering to 384MB so you may experience crashes on iPhones and iPads.
+Disclaimer: Safari on iOS/iPadOS limits canvas rendering to 384MB so you may experience crashes on iPhones and iPads. Hidamari only runs on Intel/AMD due to Nvidia Graphics Acceleration not working with Wayland.
 
 ## Featured Applications
 Apple's App Store,
