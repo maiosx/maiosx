@@ -45,9 +45,8 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
 
 - 🖥️ PC Setup
   - Windows 11
-  - maiOSX
+  - Omarchy
 - 💻 Notebook
-  - Windows 10
   - Omarchy
     
 - 📱 Phones
