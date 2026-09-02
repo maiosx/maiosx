@@ -35,7 +35,7 @@ Rotten Tomatoes
 
 Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
 
-## Try [GameDays](https://gamedays.lovable.app/), a game progress tracker with cloud saving functionality.
+## Try [Overview](https://github.com/maiosx/Overview), a file viewer with an idle cinema mode built in.
 
 
 ### 🧑‍💻 Dev Section
@@ -53,4 +53,3 @@ Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
   - iPhone 17e
   - iPhone 13 Pro
   - Samsung Galaxy S6
- ## You can make a donation on the [kofi page](https://ko-fi.com/maiosx) if you enjoy my projects.
