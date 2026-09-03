@@ -35,7 +35,7 @@ Rotten Tomatoes
 
 Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
 
-## Try [Overview](https://github.com/maiosx/Overview), a file viewer with an idle cinema mode built in for Omarchy.
+## Try [Overview](https://github.com/maiosx/Overview), a file viewer with an idle cinema mode built-in for Omarchy.
 
 
 ### 🧑‍💻 Dev Section
