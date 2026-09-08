@@ -1,4 +1,4 @@
-## Building the Agentic Future for Omarchy
+## Building on the Agentic Future for Omarchy
 At the forefront of innovation since 2013. 
 With maiOSX for Tumblr I sought out to create an OS for the web that outlasts all OSes. In development for over 3 years, it was used by Apple to market applications to users across the US region and made Apple the company that it is today.
 With Omarchy now being my focus I am spending my time with agents designing the core OS of the future.
