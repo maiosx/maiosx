@@ -1,39 +1,15 @@
-## Hello, World! ❤️
-<p>Welcome to the home of maiOSX, the tumblr "OS" made to run on virtually anything!</p>
-<p>maiOSX Snow Leopard is a third generation OS for the web, succeeding ReaperOS and waveOS. It uses the latest greatest web standards.</p>
-Disclaimer: Safari on iOS/iPadOS limits canvas rendering to 384MB so you may experience crashes on iPhones and iPads. Hidamari only runs on Intel/AMD due to Nvidia Graphics Acceleration not working with Gnome Wayland and Xorg support was phased out. WebWallpaper was created for Nvidia Graphics Cards to solve this but it only runs on Windows
+## Building the Agentic Future for Omarchy
+At the forefront of innovation since 2013. 
+With maiOSX for Tumblr I sought out to create an OS for the web that outlasts all OSes. In development for over 3 years, it was used by Apple to market applications to users across the US region and made Apple the company that it is today.
+With Omarchy now being my focus I am spending my time with agents designing the core OS of the future.
 
-## Featured Applications
-Apple's App Store,
-GameDays,
-Spinwheel Tasks,
-Nodoom,
-Perplexity,
-Grok,
-Discord,
-MusicVI,
-Calculatorv0,
-OpenCut,
-BlackjackOSX,
-Apple Invites,
-Youtube,
-Notion,
-X/Twitter,
-Apple Music,
-Canva,
-Pinterest,
-Twitch,
-Figma,
-iCloud,
-Spotify,
-Nvidia Geforce Now,
-Crunchyroll,
-Quartz News,
-Rotten Tomatoes
+Applications created so far
+Overview, Omawritevision, Wallpaper Picker (WASD compatible in wallpicker2), hardware monitor overlay, miniplayer, min-launcher, X and Nodoom Composers, Runway, Preview, and Pinmark.
 
-- ⚡ Fun fact: maiOSX includes a turbo mode for low-end hardware!
+Adaptability is the only reason things survive. I hope my work proves that great design and functionality combined together outshine and outlast the things corporations build and give back the power to the users for my work isn't over until you decide that I was the right choice all along.
 
-Wave Inc. is not affiliated with [Apple Inc.](https://apple.com) in any way.
+Thank you for your time. Lets build something great to be remembered by.
+
 
 ## Try [Overview](https://github.com/maiosx/Overview), a file viewer with an idle cinema mode built-in for Omarchy.
 
