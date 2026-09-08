@@ -3,7 +3,7 @@ At the forefront of innovation since 2013.
 With maiOSX for Tumblr I sought out to create an OS for the web that outlasts all OSes. In development for over 3 years, it was used by Apple to market applications to users across the US region and made Apple the company that it is today.
 With Omarchy now being my focus I am spending my time with agents designing the core OS of the future.
 
-## Applications created so far
+## Applications/Plugins created so far
 Overview, Omawritevision, Wallpaper Picker (WASD compatible in wallpicker2), hardware monitor overlay, miniplayer, min-launcher, X and Nodoom Composers, Runway, Preview, and Pinmark.
 
 Adaptability is the only reason things survive. I hope my work proves that great design and functionality combined together outshine and outlast the things corporations build and give back the power to the users for my work isn't over until you decide that I was the right choice all along.
