@@ -5,9 +5,9 @@
 
 - 🖥️ PC Setup
   - Windows 11
-  - Omarchy
+  - macOS Tahoe
 - 💻 Notebook
-  - Omarchy
+  - Windows 10
     
 - 📱 Phones
   - iPhone 17e
