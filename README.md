@@ -7,7 +7,7 @@
   - Windows 11
   - macOS Tahoe
 - 💻 Notebook
-  - Windows 10
+  - Mavericks
     
 - 📱 Phones
   - iPhone 17e
