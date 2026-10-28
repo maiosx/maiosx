@@ -6,6 +6,7 @@
 - 🖥️ PC Setup
   - Windows 11
   - macOS Tahoe
+  - Omarchy
 - 💻 Notebook
   - Mavericks
     
